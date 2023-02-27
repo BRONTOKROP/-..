@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Chocolatey Chocolatey
+N;CHARSET=UTF-8:Chocolatey Chocolatey;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;6021 SW 29th St,Suite A #302;Topeka;KS;66614;USA
+EMAIL:chocolatey@chocolatey.org
+ORG;CHARSET=UTF-8:Chocolatey Software\, Inc.
+URL:http://chocolatey.org
+END:VCARD
